@@ -1,0 +1,8 @@
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
+Rtree
+pyts
+h5py
